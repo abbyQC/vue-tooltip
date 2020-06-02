@@ -23,7 +23,10 @@
 <body>
     <div id="app">
         <p>
-            Hello there, <span data-tooltip="I am Chang">Hover over me </span>
+            hello,
+            <span data-tooltip="Chang!! Hello there">
+                there
+            </span>
         </p>
     </div>
     <script src="/js/app.js"></script>
